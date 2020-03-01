@@ -1,4 +1,4 @@
-module thalesgroup.com/yaml
+module github.com/rlenferink/yaml
 
 go 1.12
 
