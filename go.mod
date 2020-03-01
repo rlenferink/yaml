@@ -1,4 +1,4 @@
-module sigs.k8s.io/yaml
+module thalesgroup.com/yaml
 
 go 1.12
 
